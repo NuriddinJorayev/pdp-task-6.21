@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:language1/pages/home_page.dart';
 // more and more
 
+// more
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await EasyLocalization.ensureInitialized();
